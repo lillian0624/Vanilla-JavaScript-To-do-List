@@ -5,5 +5,6 @@ function test(
     callback(data); // console.log(data)
 }
 
+// haha please commit this
 
 test("nihao", console.log);
