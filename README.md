@@ -1,1 +1,5 @@
-# Vanilla-JavaScript-To-do-List
+// 1. DOM Event
+
+// fire/emit event
+
+// listen event
