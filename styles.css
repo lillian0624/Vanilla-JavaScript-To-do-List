@@ -12,6 +12,7 @@ html{
 }
 
 .container {
+    //有效内容区为600px，屏幕大于600px完全显示，小于600，按照90%屏幕尺寸显示
     max-width: 600px;
     width: 90%;
     display: flex;
@@ -110,4 +111,5 @@ li {
 
 p {
     font-size: 0.6rem;
+    text-align:center
 }

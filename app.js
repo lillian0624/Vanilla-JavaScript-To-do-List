@@ -48,5 +48,3 @@ function clearAll() {
   let ul = document.querySelector("ul");
   ul.innerHTML = "";
 }
-
-
